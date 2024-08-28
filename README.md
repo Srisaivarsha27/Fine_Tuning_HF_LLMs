@@ -4,6 +4,8 @@
 
 This project provides a comprehensive guide on how to fine-tune large language models (LLMs) using the Hugging Face library. The notebook included is designed to be a practical resource for anyone interested in enhancing the performance of pre-trained language models for specific tasks.
 
+The tuned model in this notebook will list the symptoms of a disease fed as input
+
 ## Features
 
 - **Environment Setup**: Instructions to set up the necessary environment and dependencies within Google Colab.
