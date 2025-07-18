@@ -38,10 +38,11 @@ Before you begin, ensure you have met the following requirements:
 
 Contributions are welcome! Please follow these steps:
 
-If the notebook is not opening refer https://colab.research.google.com/drive/1MyyN937Ny4BahsBYcvGv4_a1f5fTQRZD?usp=sharing
-
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Make your changes and commit them (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
+
+
+If the notebook is not opening refer https://colab.research.google.com/drive/1MyyN937Ny4BahsBYcvGv4_a1f5fTQRZD?usp=sharing
